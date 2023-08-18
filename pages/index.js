@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="nodoom" />
         <p className="description">
-          This is an upcoming app. 
+          This is an upcoming app.
         </p>
       </main>
 
