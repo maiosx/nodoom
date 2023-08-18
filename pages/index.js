@@ -1,23 +1,18 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+import AuthForm from './auth-form'
 
 export default function Home() {
   return (
-    <div className="container">
-      <Head>
-        <title>work in progress</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <main>
-        <Header title="nodoom" />
-        <p className="description">
-          This is an upcoming app.
+    <div className="row">
+      <div className="col-6">
+        <h1 className="header">Supabase Auth + Storage</h1>
+        <p className="">
+          Experience our Auth and Storage through a simple profile management example. Create a user
+          profile and upload an avatar image. Fast, simple, secure.
         </p>
-      </main>
-
-      <Footer />
+      </div>
+      <div className="col-6 auth-widget">
+        <AuthForm />
+      </div>
     </div>
   )
 }
