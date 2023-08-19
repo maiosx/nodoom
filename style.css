@@ -1,5 +1,5 @@
 body {height:100%; width:100%;display:block; background:url('./background.jpg'); color:white;}
-main {display:block; width:300px; height:100; color:white;}
+main {display:block; width:300px; height:100; color:white; font-family: Arial;}}
 h1 {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;}
 .signup {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px;}
 .signup .a {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;}
