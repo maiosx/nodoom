@@ -1,6 +1,9 @@
 body {height:100%; width:100%;display:block; background:url('./background.jpg'); color:white;}
-main {display:block; width:300px; height:100; color:white; font-family: Arial;}}
+main {display:block;width:300px;height:100;color:white;font-family: Arial;margin-left: 40px;}}
 h1 {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;}
-.signup {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px;}
+.about {display:block;font-size:26px;font-family: Arial, Helvetica, sans-serif;width:300px; background:rgba(0,0,0,0.5);padding-top:20px;padding:20px;border-radius:15px;}
+.about p {display:block;font-size:18px;font-family: Arial, Helvetica, sans-serif;width:300px;}
+.about .a {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;}
+.signup {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px;margin-top:40px;}
 .signup .a {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;}
 .main p { font-family: Arial, Helvetica, sans-serif;}
