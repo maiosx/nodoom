@@ -1,4 +1,4 @@
-// public/site.webmanifest
+// public/manifest.json
 {
     "display": "standalone"
     "short_name": "nodoom"
@@ -19,6 +19,12 @@
     
   }
 
+
+  <head>
+  <!-- ... -->
+  <link rel="manifest" href="/manifest.json">
+  <!-- ... -->
+</head>
 
 
 
