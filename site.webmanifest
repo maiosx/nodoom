@@ -2,4 +2,39 @@
 {
     "display": "standalone"
     "short_name": "nodoom"
+
+
+    {
+      "name": "nodoom",
+      "short_name": "nodoom",
+      "icons": [
+        {
+          "src": "apple-touch-icon.png",
+          "type": "image/png",
+          "sizes": "180x80"
+        }
+      ],
+      "start_url": "https://nodoom.app/"
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
