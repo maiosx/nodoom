@@ -1,5 +1,5 @@
 body {height:100%; width:100%;display:block; background:url('./background.jpg'); color:black;}
-main {display:block;width:300px;height:100;color:white;font-family: Arial;margin-left: 40px;margin-top:100px;}
+main {display:block;width:300px;height:100;color:white;font-family: Arial;margin-left: 40px;margin-top:100px;background:black;}
 h1 {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;text-decoration: none;}
 h1 a {display:block;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;text-decoration: none;}
 .about {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;color:white;margin-bottom:10px;background:rgba(0,0,0,0.5);padding-top:20px;/* padding:20px; */border-radius:15px;text-decoration: none;color:white;}
