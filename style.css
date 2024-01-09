@@ -1,13 +1,13 @@
 body {height:100%; width:100%;display:block; background:url('./background.jpg'); color:;}
-main {display:block;width:300px;height:100;color:white;font-family: Arial;margin-left: 40px;margin-top:100px;background:;}
-h1 {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;text-decoration: none;}
-h1 a {display:block;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;text-decoration: none;}
-.about {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;color:white;margin-bottom:10px;background:rgba(0,0,0,0.5);padding-top:20px;/* padding:20px; */border-radius:15px;text-decoration: none;color:white;}
-.about {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;padding:20px;color:white;margin-bottom:10px;background:rgba(0,0,0,0.5);padding-top:20px;/* padding:20px; */border-radius:15px;text-decoration: none;color:white;}
-.about p {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px; color:white;}
+main {display:block;width:300px;height:100;color:white;font-family: Arial;padding: 10%;padding-right:10%;margin-top:100px;background:;}
+h1 {display:block;font-size:40px;font-family: Arial, Helvetica, sans-serif;width:100%; color:white;text-decoration: none;}
+h1 a {display:block;font-family: Arial, Helvetica, sans-serif;width:100%; color:white;text-decoration: none;}
+.about {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width: 80%;%;color:white;margin-bottom:10px;background:rgba(0,0,0,0.5);padding-top:20px;/* padding:20px; */border-radius:15px;text-decoration: none;color:white;}
+.about {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:80%;padding:20px;color:white;margin-bottom:10px;background:rgba(0,0,0,0.5);padding-top:20px;/* padding:20px; */border-radius:15px;text-decoration: none;color:white;}
+.about p {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width: 80%; color:white;}
 .about a {display: block;font-size: 20px;font-family: Arial, Helvetica, sans-serif;color: white;text-decoration: none;text-align: left;text-wrap: balance;padding-right: 10px;}
-.signup {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px; background:rgba(0,0,0,0.5);padding-top:20px;padding:20px;border-radius:15px; text-decoration: none; color:white; margin-top:20px;}
-.signup a {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:300px;color:white; text-decoration: none;}
+.signup {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:80%; background:rgba(0,0,0,0.5);padding-top:20px;padding:20px;border-radius:15px; text-decoration: none; color:white; margin-top:20px;}
+.signup a {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;width:80%;color:white; text-decoration: none;}
 .signup2 {display:block;    margin-bottom: 20px; font-size:20px;font-family: Arial, Helvetica, sans-serif;background:rgba(0,0,0,0.5);padding-top:20px;padding:20px;border-radius:15px;text-decoration: none;color:white;margin-top:20px;margin-bottom: 1;margin-left: 1;}
 .signup2 a {display:block;font-size:20px;font-family: Arial, Helvetica, sans-serif;color:white; text-decoration: none;}
 .main p { font-family: Arial, Helvetica, sans-serif;}
