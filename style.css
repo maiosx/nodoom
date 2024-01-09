@@ -35,6 +35,9 @@ h1 {
     color:white;
     margin-bottom:20px;
 }
+
+.about a {color:white;}
+.body a {color:white;}
 overflow-y: hidden; 
 overflow-x: hidden; 
 
