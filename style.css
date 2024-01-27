@@ -42,7 +42,8 @@ h1 {
 .body a {color:white;text-decoration:none;}
 overflow-y: hidden; 
 overflow-x: hidden; 
-
+::-webkit-scrollbar { display: none;}
+scrollbar { display: none;}
 @media screen and (display-mode: standalone) {}
 
 @media only screen and (max-width: 100%) and (min-width: 900px)  {}
