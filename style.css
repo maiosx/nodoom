@@ -15,7 +15,6 @@ main {
     color:white;
     font-family: Arial;
     margin-top:100px;
-    display: inline-grid;
 }
 
 h1 {
@@ -51,5 +50,5 @@ overflow-x: hidden;
 
 @media only screen and (min-width: 400px) {
 .about {width:400px;}
-.main {display:inline-grid;}
+main {display:inline-grid;}
 }
